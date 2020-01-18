@@ -7,7 +7,7 @@ window.onload=function(){
     this.encab.innerHTML = 
     '<nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top ">'+
 
-      '<a class="navbar-brand" href="Index.html">'+
+      '<a class="navbar-brand" href="index.html">'+
         '<img src="imagenes/Logo_Blanco.gif" class="img-fluid" alt=""></img>'+
         '<h6 id="ScriptFecha"></h6>'+
       '</a>'+
